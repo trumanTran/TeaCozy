@@ -120,3 +120,12 @@ h2, h3, h4{
   flex-direction: column;
   justify-content: center;
 }
+
+#contact{
+  height: 200px;
+}
+
+footer{
+  text-align: left;
+  padding-left: 20px;
+}
